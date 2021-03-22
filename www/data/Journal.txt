@@ -1,0 +1,35 @@
+<quest 1:A simple quest|1|1>
+Test the Journal
+Keep testing
+Meet all demo characters
+in the test area
+</quest>
+<quest 100:The Curse|1|0>
+Travel to the Tower of Lust|Confront Lilith
+
+I've been cursed by Lilith,
+the Queen of Succubuses.
+
+She shows up in my nightmares
+and takes advantage of my
+weakenesses to steal my
+vitality and bind me to her
+will.
+
+I must find and confront her
+to break dis damned curse.
+</quest>
+<quest 200:The Tower of Lust|1|1>
+Leave the forest|Travel to DawnHarbor|Sail to Amirian Island
+
+After a day of travel,
+we're up to leave the forest.
+</quest>
+<quest 300:Explore the Pond|1|2>
+Explore the secret pond
+
+There's a pond
+following the west exit.
+Would be nice to relax
+a while there before leave.
+</quest>
